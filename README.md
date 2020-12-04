@@ -1,5 +1,5 @@
 # :seedling: Movimento Sustentável :seedling:
-Developed project in the course Science Computer - University Paulista - UNIP
+Developed project in the course Computer Science - University Paulista - UNIP
 
 ## Index
 - [About](#pushpin-about)
